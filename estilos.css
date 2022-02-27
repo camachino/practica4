@@ -1,0 +1,128 @@
+
+body{
+    background: darkgrey;
+    font-family:Arial,sans-serif, Helvetica;
+}
+
+#container{
+    background-color: white;
+    color:black;
+    border: 2px solid white;
+    margin: 0px auto;
+    padding: 5px;
+    text-align:center;
+}
+#carouselExampleControls{
+    margin: 0px auto;
+    padding: 5px;
+    box-align:center;
+
+}
+header{
+    font-family:'Brush Script MT', cursive;
+    font-size: 350%;
+    background-color: orange;
+    color:black;
+    border: 2px solid black;
+    margin: 0px auto;
+    padding: 5px;
+    height : 300px;
+    width: 100%;
+    text-align:center;
+
+}
+footer
+{
+    background-color: black;
+    color:white;
+    border: 2px solid white;
+    margin: 0px auto;
+    padding: 5px;
+    height :100%;
+    width: 100%;
+    text-align:center;
+    line-height: 50px;
+
+}
+section
+{
+    background-color:darkgrey;
+    color:black;
+    border: 2px solid black;
+    margin: 0px auto;
+    padding: 5px;
+    text-align:center;
+    line-height: 100px;
+    height : 100%;
+}
+
+.texto {
+  background-color: lightgrey;
+  color: black;
+  border: 2px solid black;
+  padding: 5px;
+  text-align:center;
+}
+.titulo1{
+    margin: 0px auto;
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    width: 200px;
+    height: 50px;
+    text-align:center;
+
+}
+.titulo2{
+    margin: 0px auto;
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    width: 1000px;
+    height: 50px;
+    text-align:center;
+
+}
+.estilo1 {
+    background-color:darkgrey;
+    color:black;
+    border: 2px solid black;
+    margin: 0px auto;
+    padding: 5px;
+    text-align:center;
+}
+.estilo2 {
+    background-color: grey;
+    color: black;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+    text-align:center;
+}
+.estilo3 {
+    background-color:orange;
+    color:black;
+    border: 2px solid black;
+    margin: 0px auto;
+    padding: 5px;
+    text-align:center;
+}
+.espaciador
+{
+    background-color: orange;
+    width: 100%;
+    height: 20px;
+    border: 2px solid black;
+}
+
+btn-primary{
+    background-color: orange;
+    border: 2px solid black;
+}
+
+.intro{
+    background-color: lightgrey;
+    color: black;
+    border: 2px solid black;
+    padding: 5px;
+  }
