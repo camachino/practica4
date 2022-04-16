@@ -1,4 +1,8 @@
 
+#map {
+    height: 40vh;
+    width: 25hw;
+}
 body{
     background: darkgrey;
     font-family:Arial,sans-serif, Helvetica;
